@@ -2,13 +2,14 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
-
 .navbar-dark {
      background-color: #512DA8;
 }
-
+.nav-item{
+    margin-left: 15px;
+}
 .row-header{
-    margin:0px auto;
+    margin:0px;
     padding:0px;
 }
 
