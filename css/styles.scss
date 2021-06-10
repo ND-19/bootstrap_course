@@ -53,7 +53,19 @@ body{
     border-bottom: 1px solid $lt-gray;
     padding: 10px;
 }
-
+.modal-header{
+    background-color: $background-dark;
+    color: $lt-gray;
+    button{
+        background-color: $background-light;
+    }
+}
+.modal-body{
+    background-color: $background-pale;
+}
+.close{
+    background-color: $background-light;
+}
 .carousel {
     background:$background-dark;
 
